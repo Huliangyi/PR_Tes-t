@@ -1,3 +1,35 @@
+<thead align="left">
+	<tr id="zh-cn_topic_0000001926464492_row2922mcpsimp">
+		<th class="cellrowborder" valign="top" width="48.484848484848484%" id="mcps1.1.4.1.1">
+			<p id="zh-cn_topic_0000001926464492_p2924mcpsimp">
+				<a name="zh-cn_topic_0000001926464492_p2924mcpsimp">
+				</a>
+				<a name="zh-cn_topic_0000001926464492_p2924mcpsimp">
+				</a>
+				参数名
+			</p>
+		</th>
+		<th class="cellrowborder" valign="top" width="21.21212121212121%" id="mcps1.1.4.1.2">
+			<p id="zh-cn_topic_0000001926464492_p2926mcpsimp">
+				<a name="zh-cn_topic_0000001926464492_p2926mcpsimp">
+				</a>
+				<a name="zh-cn_topic_0000001926464492_p2926mcpsimp">
+				</a>
+				输入/输出
+			</p>
+		</th>
+		<th class="cellrowborder" valign="top" width="30.303030303030305%" id="mcps1.1.4.1.3">
+			<p id="zh-cn_topic_0000001926464492_p2928mcpsimp">
+				<a name="zh-cn_topic_0000001926464492_p2928mcpsimp">
+				</a>
+				<a name="zh-cn_topic_0000001926464492_p2928mcpsimp">
+				</a>
+				描述
+			</p>
+		</th>
+	</tr>
+</thead>
+
 # Test
 
 #### Description
